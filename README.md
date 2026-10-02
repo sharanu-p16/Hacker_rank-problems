@@ -20,8 +20,8 @@ Stock Maximize, Find the Median, Closest Numbers, Mini-Max Sum.
 
 
 ## Badge
-![HackerRank profile](screenshots/profile-header.png)
-![3-star Problem Solving badge](screenshots/badges.png)
+![HackerRank profile](screenshots/profile.png)
+![3-star Problem Solving badge](screenshots/badges_01.png)
 
 ## Approach notes
 - **Sparse Arrays:** an `unordered_map` counts each string once, so each query is an O(1) lookup instead of a nested loop.
